@@ -1,1 +1,12 @@
 /* your code */
+th,td{
+            border:1px solid black;
+           
+        }
+table{
+            border-collapse: collapse;
+        }
+th{
+	color:white;
+	background-color:blue;
+}
